@@ -1,0 +1,38 @@
+{
+    "initial_working_directory": "~",
+    "font_size_points": 14,
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "editor_theme": "Hate-Of-Nature:",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "TabSet2",
+            "Console"
+        ],
+        "tabSet1": [
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Environment",
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": false,
+        "additional_source_columns": 0
+    },
+    "editor_scroll_multiplier": 170,
+    "global_theme": "alternate"
+}
